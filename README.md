@@ -89,6 +89,73 @@ Claude should respond with:
 
 ---
 
+## Example SKILL usage
+
+### Input
+
+> Use the **Social Creative Director** skill to create an Instagram carousel concept and caption for my AI workflow audit service.  
+> Audience: small business owners who are overwhelmed by manual processes.  
+> Offer: free 30‑minute workflow audit.  
+> Tone: confident, practical, not hypey.
+
+### Output (excerpt)
+
+**A. Strategy Snapshot**
+
+- Objective: Generate qualified leads for AI workflow audits.
+- Audience: Owners of 5–50 person businesses drowning in manual admin.
+- Platform: Instagram
+- Format: 5–7 slide carousel
+- Tone: Direct, calm, experienced guide
+- Core message: “You’re leaving hours on the table every week.”
+- Desired action: Tap link in bio to book a free audit.
+
+**B. Final Creative Concept**
+
+- Big idea: “Where your week actually goes.”
+- Driver: Show the hidden cost of manual workflows in a visual, concrete way.
+- Why it works: Uses curiosity and recognition (“this is my life”) to earn the right to pitch the audit.
+
+**C. Graphic Direction**
+
+- Asset: 1080×1350 carousel.
+- Slide 1: Bold headline top-left (“Where your week actually goes”), simple bar-style visual showing time lost to manual tasks, brand mark bottom-right.
+- Slides 2–4: One pain point per slide with icon, short label, and % of week lost.
+- Slide 5–6: “After” state with cleaner layout and fewer blocks of time.
+- Final slide: Strong CTA panel with headline, short subcopy, URL/handle, and simple button-style shape.
+
+**D. On‑Graphic Copy (examples)**
+
+- Slide 1 headline: “Where your week actually goes”
+- Pain slide headline: “Manual reporting – 8 hours”  
+- Final slide headline: “Win back 10+ hours this month”
+- CTA text: “Book your free workflow audit”
+
+**E. Caption (Instagram)**
+
+> You’re not “too busy for systems” — you’re busy *because* of them.  
+>  
+> Most small teams lose 10–15 hours every week to manual reporting, copy‑pasting between tools, and chasing status updates.  
+>  
+> I run 30‑minute AI workflow audits to map where your time is leaking and show you what to automate first.  
+>  
+> Comment “AUDIT” or hit the link in bio and I’ll send the details.
+
+- Alternate hooks:
+  - “If your Monday starts in spreadsheets, this is for you.”
+  - “How many hours did you copy‑paste last week?”
+- Alternate CTAs:
+  - “DM me ‘AUDIT’ and I’ll send the booking link.”
+  - “Save this and share it with the one person on your team who does *everything* manually.”
+
+**F. Posting notes**
+
+- Best as weekday daytime post when your audience is in “work mode.”
+- Use a clean thumbnail for slide 1 with strong headline and no tiny text.
+- Keep colors simple: 1 accent + neutrals so the numbers are easy to read.
+
+---
+
 ## License
 
 This repository is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
