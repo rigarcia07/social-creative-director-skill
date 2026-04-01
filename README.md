@@ -325,6 +325,45 @@ Claude should respond with:
 
 ---
 
+## Installation in Claude
+
+There are two common ways to install this skill, depending on how you use Claude.
+
+### Option 1 – Upload as a custom Skill (Claude app / desktop)
+
+1. Zip this skill folder so the archive contains:
+   - `social-creative-director/`
+     - `SKILL.md`
+2. In Claude, go to **Customize → Skills** (or **Settings → Capabilities → Skills**, depending on your UI).
+3. Click the **+** button, then choose **Create skill** → **Upload a skill**.
+4. Select the ZIP file you created and upload it.
+5. Once it appears in your Skills list, toggle **Social Creative Director** **on** so Claude can use it in chats. [web:20][web:38]
+
+After that, you can either:
+- Call it explicitly in your prompt (e.g., “Use the Social Creative Director skill to…”), or
+- Just describe the task and let Claude load it automatically when relevant. [web:2][web:20]
+
+### Option 2 – Install manually for Claude Code (local skills folder)
+
+If you’re using Claude Code with local skills support:
+
+1. Clone or download this repository.
+2. Copy the `social-creative-director` folder into your skills directory, e.g.:
+
+   ```bash
+   mkdir -p ~/.claude/skills
+   cp -r social-creative-director ~/.claude/skills/
+   ```
+
+   By convention, Claude looks for skills in `~/.claude/skills/` (for personal skills) or in a `.claude/skills/` folder at the project root. [web:17][web:199]
+
+3. Restart or reload Claude Code so it picks up new skills.
+4. In Claude Code, mention the skill by name or use whatever slash-command / invocation style your environment supports.
+
+Once installed either way, the skill behaves like any other Claude Skill: you can toggle it in your Skills list, and Claude will follow its `SKILL.md` instructions whenever you ask for social post creative. [web:17][web:20]
+
+---
+
 ## License
 
 This repository is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
